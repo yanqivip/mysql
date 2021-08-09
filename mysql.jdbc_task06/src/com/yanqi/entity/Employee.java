@@ -4,7 +4,7 @@ package com.yanqi.entity;
         import java.util.Date;
 
 /**
- * JavaBean类
+ * JavaBean类		
  *      用来存储数据 成员变量私有 提供get set 提供空参  实现序列化接口
  *
  * Employee类 就是对应了 数据库中Employee表

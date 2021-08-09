@@ -21,8 +21,8 @@
 </users>
 
 
-<!-- XML的注释
-    1.XML中必须进行文档声明
+<!-- XML的注释 
+    1.XML中必须进行文档声明 
         version 版本信息
         encoding 编码
     2.xml的文档声明必须写在第一行

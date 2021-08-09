@@ -8,14 +8,14 @@ public class JdbcDemo01 {
 
     public static void main(String[] arges) throws Exception {
 
-        //1、注册驱动
+        //1、注册驱动		
         Class.forName("com.mysql.jdbc.Driver");
 
         //2、获取连接connection连接对象com.mysql.jdbc.JDBC4Connection@188715b5
         String url = "jdbc:mysql://localhost:3306/db4?characterEncoding=UTF-8";
         Connection con = DriverManager.getConnection(url, "root", "123456");
 
-        //3、打印连接对象
+        //3、打印连接对象		
         System.out.println(con);
 
         //3.获取语句执行平台 Statement
