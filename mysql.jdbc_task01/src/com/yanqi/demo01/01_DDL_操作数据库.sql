@@ -8,7 +8,7 @@ SHOW DATABASES;
 		R retrieve 查询
 		U update 修改
 		D delete 删除
-		使用数据库
+		使用数据库  
 */
 
 /*
