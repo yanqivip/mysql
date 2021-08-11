@@ -11,7 +11,7 @@ package com.yanqi.jdbc05;
 public class JdbcLogin01 {
 
     /**
-     * 用户登录案例
+     * 用户登录案例		
      * @param args
      */
     public static void main(String[] args) throws SQLException {
