@@ -6,7 +6,7 @@ SHOW DATABASES;
 		CRUD
 		C create 创建 
 		R retrieve 查询
-		U update 修改
+		U update 修改 
 		D delete 删除
 		使用数据库  
 */
