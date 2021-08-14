@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bc8b398-0bc7-4f4d-a0f5-a6a50f2a7bf9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task01/mysql.jdbc_task01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task01/src/com/yanqi/demo01/01_DDL_操作数据库.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task01/src/com/yanqi/demo01/02_DDL_操作表.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task01/src/com/yanqi/demo01/03_DML_操作表中的数据(增删改).sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task01/src/com/yanqi/demo01/04_DQL_操作表中的数据(查).sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task02/mysql.jdbc_task02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task02/src/com/yanqi/demo01/01_DQL_单表操作.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task02/src/com/yanqi/demo01/02_约束.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task02/src/com/yanqi/demo01/03_MySql事务.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task03/mysql.jdbc_task03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task03/src/com/yanqi/demo01/01_多表的设计.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task03/src/com/yanqi/demo01/02_多表查询.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task03/src/com/yanqi/demo01/03_子查询.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task03/src/com/yanqi/demo01/04_数据库设计.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task04/mysql.jdbc_task04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task04/src/com/yanqi/demo01/01_MySql索引.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task04/src/com/yanqi/demo01/02_MySql视图.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task04/src/com/yanqi/demo01/03_MySql存储过程.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task04/src/com/yanqi/demo01/04_MySql触发器.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task04/src/com/yanqi/demo01/05_DCL操作用户&amp;权限.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task04/src/com/yanqi/demo01/SqlYog备份数据库_db2.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.jdbc_task04/src/com/yanqi/demo01/命令行备份数据库_db02.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql.jdbc_task01/mysql.jdbc_task01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mysql.jdbc_task01/mysql.jdbc_task01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql.jdbc_task05/mysql.jdbc_task05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mysql.jdbc_task05/mysql.jdbc_task05.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +59,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql.jdbc_task04/src/com/yanqi/demo01" />
+    <property name="last_opened_file_path" value="F:/NO.Z.02000——soft——IT.实验/20210801——Hadoop/20210801.2——Hadoop——第二阶段——预科班/预科班第二阶段模块一/05 任务五 (JDBC)/03_软件/myJar" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -101,13 +84,13 @@
       <recent name="E:\NO.Z.10000——javaproject\NO.H.00002.mysql\mysql\mysql.jdbc_task06\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestJDBC">
-    <configuration name="BatchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yanqi.testbatch.BatchInsert" />
+  <component name="RunManager" selected="Application.JdbcLogin01">
+    <configuration name="DBUtilsDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanqi.testDBUtils.DBUtilsDemo01" />
       <module name="mysql.jdbc_task06" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yanqi.testbatch.*" />
+          <option name="PATTERN" value="com.yanqi.testDBUtils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestC3P0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yanqi.testpool.TestC3P0" />
-      <module name="mysql.jdbc_task06" />
+    <configuration name="JdbcDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanqi.jdbc05.JdbcDemo01" />
+      <module name="mysql.jdbc_task05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yanqi.testpool.*" />
+          <option name="PATTERN" value="com.yanqi.jdbc05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,25 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDBCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yanqi.testpool.TestDBCP" />
-      <module name="mysql.jdbc_task06" />
+    <configuration name="JdbcLogin01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanqi.jdbc05.JdbcLogin01" />
+      <module name="mysql.jdbc_task05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yanqi.testpool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestJDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yanqi.xml05.TestJDBC" />
-      <module name="mysql.jdbc_task7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yanqi.xml05.*" />
+          <option name="PATTERN" value="com.yanqi.jdbc05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,17 +163,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestXPath.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mysql.jdbc_task7" />
+    <configuration name="JdbcDml.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mysql.jdbc_task05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yanqi.xml04.*" />
+          <option name="PATTERN" value="com.yanqi.jdbc05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.yanqi.xml04" />
-      <option name="MAIN_CLASS_NAME" value="com.yanqi.xml04.TestXPath" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.yanqi.jdbc05" />
+      <option name="MAIN_CLASS_NAME" value="com.yanqi.jdbc05.JdbcDml" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMetaData.testDataBaseMetaData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mysql.jdbc_task06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanqi.testmetadata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yanqi.testmetadata" />
+      <option name="MAIN_CLASS_NAME" value="com.yanqi.testmetadata.TestMetaData" />
+      <option name="METHOD_NAME" value="testDataBaseMetaData" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -211,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestDBCP" />
-        <item itemvalue="Application.TestC3P0" />
-        <item itemvalue="Application.BatchInsert" />
-        <item itemvalue="Application.TestJDBC" />
-        <item itemvalue="JUnit.TestXPath.test1" />
+        <item itemvalue="Application.JdbcLogin01" />
+        <item itemvalue="JUnit.TestMetaData.testDataBaseMetaData" />
+        <item itemvalue="Application.DBUtilsDemo01" />
+        <item itemvalue="JUnit.JdbcDml.testInsert" />
+        <item itemvalue="Application.JdbcDemo01" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +234,13 @@
       <workItem from="1628312003583" duration="11000" />
       <workItem from="1628312318177" duration="23000" />
       <workItem from="1628312458268" duration="9000" />
+      <workItem from="1628911359278" duration="109000" />
+      <workItem from="1628920348502" duration="291000" />
+      <workItem from="1628920803052" duration="14000" />
+      <workItem from="1628920880748" duration="174000" />
+      <workItem from="1628922786806" duration="61000" />
+      <workItem from="1628926435113" duration="77000" />
+      <workItem from="1628938765589" duration="32000" />
     </task>
     <servers />
   </component>
@@ -279,42 +272,46 @@
       <screen x="71" y="0" width="1295" height="768" />
     </state>
     <state x="462" y="219" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/71.0.1295.768@71.0.1295.768" timestamp="1628251897166" />
+    <state x="556" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1628920589070">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="556" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/71.0.1295.768@71.0.1295.768" timestamp="1628920589070" />
     <state x="448" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1628249367508">
       <screen x="71" y="0" width="1295" height="768" />
     </state>
     <state x="448" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/71.0.1295.768@71.0.1295.768" timestamp="1628249367508" />
-    <state x="618" y="140" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1628168255761">
+    <state x="618" y="140" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1628920943461">
       <screen x="71" y="0" width="1295" height="768" />
     </state>
-    <state x="618" y="140" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/71.0.1295.768@71.0.1295.768" timestamp="1628168255761" />
+    <state x="618" y="140" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/71.0.1295.768@71.0.1295.768" timestamp="1628920943461" />
     <state x="410" y="105" key="#mysql.jdbc_task06" timestamp="1628265512051">
       <screen x="71" y="0" width="1295" height="768" />
     </state>
     <state x="410" y="105" key="#mysql.jdbc_task06/71.0.1295.768@71.0.1295.768" timestamp="1628265512051" />
-    <state x="510" y="87" key="FileChooserDialogImpl" timestamp="1628251973114">
+    <state x="510" y="87" key="FileChooserDialogImpl" timestamp="1628920929286">
       <screen x="71" y="0" width="1295" height="768" />
     </state>
-    <state x="510" y="87" key="FileChooserDialogImpl/71.0.1295.768@71.0.1295.768" timestamp="1628251973114" />
-    <state width="1235" height="189" key="GridCell.Tab.0.bottom" timestamp="1628265771775">
+    <state x="510" y="87" key="FileChooserDialogImpl/71.0.1295.768@71.0.1295.768" timestamp="1628920929286" />
+    <state width="1234" height="167" key="GridCell.Tab.0.bottom" timestamp="1628938797830">
       <screen x="71" y="0" width="1295" height="768" />
     </state>
-    <state width="1235" height="189" key="GridCell.Tab.0.bottom/71.0.1295.768@71.0.1295.768" timestamp="1628265771775" />
-    <state width="1235" height="189" key="GridCell.Tab.0.center" timestamp="1628265771775">
+    <state width="1234" height="167" key="GridCell.Tab.0.bottom/71.0.1295.768@71.0.1295.768" timestamp="1628938797830" />
+    <state width="1234" height="167" key="GridCell.Tab.0.center" timestamp="1628938797830">
       <screen x="71" y="0" width="1295" height="768" />
     </state>
-    <state width="1235" height="189" key="GridCell.Tab.0.center/71.0.1295.768@71.0.1295.768" timestamp="1628265771775" />
-    <state width="1235" height="189" key="GridCell.Tab.0.left" timestamp="1628265771775">
+    <state width="1234" height="167" key="GridCell.Tab.0.center/71.0.1295.768@71.0.1295.768" timestamp="1628938797830" />
+    <state width="1234" height="167" key="GridCell.Tab.0.left" timestamp="1628938797830">
       <screen x="71" y="0" width="1295" height="768" />
     </state>
-    <state width="1235" height="189" key="GridCell.Tab.0.left/71.0.1295.768@71.0.1295.768" timestamp="1628265771775" />
-    <state width="1235" height="189" key="GridCell.Tab.0.right" timestamp="1628265771775">
+    <state width="1234" height="167" key="GridCell.Tab.0.left/71.0.1295.768@71.0.1295.768" timestamp="1628938797830" />
+    <state width="1234" height="167" key="GridCell.Tab.0.right" timestamp="1628938797830">
       <screen x="71" y="0" width="1295" height="768" />
     </state>
-    <state width="1235" height="189" key="GridCell.Tab.0.right/71.0.1295.768@71.0.1295.768" timestamp="1628265771775" />
-    <state x="275" y="13" width="1040" height="755" key="SettingsEditor" timestamp="1628310579655">
+    <state width="1234" height="167" key="GridCell.Tab.0.right/71.0.1295.768@71.0.1295.768" timestamp="1628938797830" />
+    <state x="275" y="13" width="1040" height="755" key="SettingsEditor" timestamp="1628926493256">
       <screen x="71" y="0" width="1295" height="768" />
     </state>
-    <state x="275" y="13" width="1040" height="755" key="SettingsEditor/71.0.1295.768@71.0.1295.768" timestamp="1628310579655" />
+    <state x="275" y="13" width="1040" height="755" key="SettingsEditor/71.0.1295.768@71.0.1295.768" timestamp="1628926493256" />
     <state x="399" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1628310483389">
       <screen x="71" y="0" width="1295" height="768" />
     </state>
